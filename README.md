@@ -17,8 +17,7 @@ Languages and Frameworks:
 
     🛠 Tech Stack
 💻   PHP | C#
-🌐   HTML| CSS | JavaScript | Bootstrap | React.js
+🌐   HTML| CSS | JavaScript | Bootstrap 
 🛢   MySQL | SQL Server
 🔧  Visual Studio code | SQL Server
-🖥   Adobe Photoshop
 
