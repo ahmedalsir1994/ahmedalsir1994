@@ -70,6 +70,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedalsir1994&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedalsir1994&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <h2 align="left">Tech Stack</h2>
 
 ###
@@ -78,29 +85,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedalsir1994&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedalsir1994&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h2 align="left">What I Build</h2>
 
 ###
 
 <p align="left">🚀 RESTful APIs for scalable web & mobile applications <br>🔐 Secure authentication systems (Sanctum, API Tokens)  <br>🛡 Role-based access control using policies  <br>⚡ High-performance systems with caching & optimization  <br>📊 Efficient database design and query optimization  <br>💳 Payment-integrated platforms</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/ahmedalsir1994/ahmedalsir1994/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedalsir1994/ahmedalsir1994/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedalsir1994/ahmedalsir1994/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahmedalsir1994/ahmedalsir1994/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
